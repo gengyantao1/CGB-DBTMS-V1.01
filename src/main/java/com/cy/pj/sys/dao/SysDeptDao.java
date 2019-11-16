@@ -11,6 +11,7 @@ import com.cy.pj.sys.entity.SysDept;
 //add 2019111615:32
 //add 2019111615:00
 //add 2019111615:41
+//add 2019111616:14
 @Mapper
 public interface SysDeptDao {
 	int updateObject(SysDept entity);
