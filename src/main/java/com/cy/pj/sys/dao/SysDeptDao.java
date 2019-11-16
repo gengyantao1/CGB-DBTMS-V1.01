@@ -6,7 +6,8 @@ import org.apache.ibatis.annotations.Mapper;
 
 import com.cy.pj.common.vo.Node;
 import com.cy.pj.sys.entity.SysDept;
-//add 20191116
+//add 20191116 15:33
+
 @Mapper
 public interface SysDeptDao {
 	int updateObject(SysDept entity);
